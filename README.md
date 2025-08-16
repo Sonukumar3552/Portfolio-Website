@@ -18,53 +18,17 @@ Welcome to my Portfolio Website repository! This project showcases my skills, ex
 - **Deployment**: [e.g., GitHub Pages, Vercel, Netlify]
 - **Other tools**: [e.g., SASS, Bootstrap, TailwindCSS, etc.]
 
-## 📁 Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Sonukumar3552/Portfolio-Website.git
-   cd Portfolio-Website
-   ```
-
-2. **Install dependencies** (if applicable)
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Start the development server** (if applicable)
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-4. **Open your browser** and navigate to `http://localhost:3000` (or the default port specified).
-
-> If this is a static HTML/CSS/JS project, simply open `index.html` in your browser.
 
 ## 🖼️ Screenshots
 
-<!-- Add screenshots/gifs of your website here -->
-![Screenshot](screenshots/portfolio-homepage.png)
+<img width="1317" height="643" alt="image" src="https://github.com/user-attachments/assets/984f283b-291f-4a82-89c7-feb67ac489bd" />
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgements
-
-- [Font Awesome](https://fontawesome.com/)
-- [Unsplash](https://unsplash.com/) for images
-- [Bootstrap](https://getbootstrap.com/) or [Tailwind CSS](https://tailwindcss.com/) (if used)
-- Special thanks to all contributors and open-source resources!
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sonukumar3552/) or send an email to [your.email@example.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sonukumar3552/) or send an email to [sonukumar25957@gmail.com]
+
 
 ---
 
