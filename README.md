@@ -21,8 +21,7 @@ Welcome to my Portfolio Website repository! This project showcases my skills, ex
 
 ## 🖼️ Screenshots
 
-<img width="1317" height="643" alt="image" src="https://github.com/user-attachments/assets/984f283b-291f-4a82-89c7-feb67ac489bd" />
-
+<img width="1322" height="634" alt="image" src="https://github.com/user-attachments/assets/51418744-c8f6-4ccb-8214-97c341f78db8" />
 
 
 ## 📬 Contact
